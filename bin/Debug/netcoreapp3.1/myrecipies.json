@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Lasagna",
+    "ingredients": [
+      {
+        "name": "spaghetti",
+        "measuringP": 0,
+        "amount": 300
+      },
+      {
+        "name": "meat",
+        "measuringP": 4,
+        "amount": 300
+      },
+      {
+        "name": "tomato sauce",
+        "measuringP": 1,
+        "amount": 2
+      }
+    ],
+    "nutrition": {
+      "calories": 350,
+      "protein": 30,
+      "fat": 30,
+      "carbohydrates": 40
+    }
+  },
+  {
+    "name": "Rice with vegetables",
+    "ingredients": [
+      {
+        "name": "rice",
+        "measuringP": 1,
+        "amount": 2
+      },
+      {
+        "name": "vegetables",
+        "measuringP": 1,
+        "amount": 1
+      }
+    ],
+    "nutrition": {
+      "calories": 250,
+      "protein": 4,
+      "fat": 2,
+      "carbohydrates": 60
+    }
+  },
+  {
+    "name": "Omelette",
+    "ingredients": [
+      {
+        "name": "eggs",
+        "measuringP": 0,
+        "amount": 3
+      }
+    ],
+    "nutrition": {
+      "calories": 100,
+      "protein": 0,
+      "fat": 0,
+      "carbohydrates": 0
+    }
+  },
+  {
+    "name": "Fish",
+    "ingredients": [
+      {
+        "name": "fish",
+        "measuringP": 4,
+        "amount": 500
+      },
+      {
+        "name": "vegetables",
+        "measuringP": 1,
+        "amount": 1
+      }
+    ],
+    "nutrition": {
+      "calories": 600,
+      "protein": 0,
+      "fat": 0,
+      "carbohydrates": 0
+    }
+  }
+]
