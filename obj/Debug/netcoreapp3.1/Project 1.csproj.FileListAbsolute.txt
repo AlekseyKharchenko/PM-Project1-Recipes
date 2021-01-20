@@ -1,0 +1,15 @@
+D:\002\Kharchenko\004 Homework 4\Project 1\obj\Debug\netcoreapp3.1\Project 1.csprojAssemblyReference.cache
+D:\002\Kharchenko\004 Homework 4\Project 1\obj\Debug\netcoreapp3.1\Project 1.AssemblyInfoInputs.cache
+D:\002\Kharchenko\004 Homework 4\Project 1\obj\Debug\netcoreapp3.1\Project 1.AssemblyInfo.cs
+D:\002\Kharchenko\004 Homework 4\Project 1\obj\Debug\netcoreapp3.1\Project 1.csproj.CoreCompileInputs.cache
+D:\002\Kharchenko\004 Homework 4\Project 1\bin\Debug\netcoreapp3.1\Project 1.exe
+D:\002\Kharchenko\004 Homework 4\Project 1\bin\Debug\netcoreapp3.1\Project 1.deps.json
+D:\002\Kharchenko\004 Homework 4\Project 1\bin\Debug\netcoreapp3.1\Project 1.runtimeconfig.json
+D:\002\Kharchenko\004 Homework 4\Project 1\bin\Debug\netcoreapp3.1\Project 1.runtimeconfig.dev.json
+D:\002\Kharchenko\004 Homework 4\Project 1\bin\Debug\netcoreapp3.1\Project 1.dll
+D:\002\Kharchenko\004 Homework 4\Project 1\bin\Debug\netcoreapp3.1\Project 1.pdb
+D:\002\Kharchenko\004 Homework 4\Project 1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\002\Kharchenko\004 Homework 4\Project 1\obj\Debug\netcoreapp3.1\Project 1.csproj.CopyComplete
+D:\002\Kharchenko\004 Homework 4\Project 1\obj\Debug\netcoreapp3.1\Project 1.dll
+D:\002\Kharchenko\004 Homework 4\Project 1\obj\Debug\netcoreapp3.1\Project 1.pdb
+D:\002\Kharchenko\004 Homework 4\Project 1\obj\Debug\netcoreapp3.1\Project 1.genruntimeconfig.cache
